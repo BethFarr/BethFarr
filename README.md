@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BethFarr
-- 👀 I’m interested in environmental data science and analytics. 
+- 👀 I’m interested in criminology, data science and analytics. 
 - 😄 Pronouns: she/her
 - University: Northeastern Univeristy. 
 - Degree: Poltics and Data Science. 
